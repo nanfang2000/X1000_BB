@@ -1,0 +1,15 @@
+Component   : Geared_DC_Motor_6X16
+PCB Library : PCB_Mechanical.PcbLib
+Date        : 4/26/2017
+Time        : 1:00:34 AM
+
+
+
+Dimension : 0.798 x 0.448 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 2          0        0       0        0
+ Top Overlay                 0          0        0       0        1
+--------------------------------------------------------------------
+ Total                       2          0        0       0        1

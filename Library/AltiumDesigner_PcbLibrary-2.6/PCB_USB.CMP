@@ -1,0 +1,15 @@
+Component   : USB_MINI-B
+PCB Library : PCB_USB.PcbLib
+Date        : 5/23/2017
+Time        : 12:54:12 AM
+
+
+
+Dimension : 0.438 x 0.388 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 2          0        0       0        0
+ Top Overlay                 0          7        0       0        0
+--------------------------------------------------------------------
+ Total                       2          7        0       0        0
